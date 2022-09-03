@@ -1,0 +1,51 @@
+<class>
+   <item>
+      <id>1</id>
+      <name>Button</name>
+      <xcordinate>50</xcordinate>
+      <ycordinate>80</ycordinate>
+      <height>40</height>
+      <width>150</width>
+      <value>Click Me</value>
+   </item>
+
+    <item>
+      <id>2</id>
+      <name>EditBox</name>
+      <xcordinate>50</xcordinate>
+      <ycordinate>140</ycordinate>
+      <height>40</height>
+      <width>150</width>
+      <value>Type Here</value>
+   </item>
+
+     <item>
+      <id>3</id>
+      <name>TextBox</name>
+      <xcordinate>50</xcordinate>
+      <ycordinate>20</ycordinate>
+      <height>50</height>
+      <width>150</width>
+      <value>This is TextBox</value>
+   </item>
+
+    <item>
+      <id>4</id>
+      <name>MaleRadioButton</name>
+      <xcordinate>50</xcordinate>
+      <ycordinate>180</ycordinate>
+      <height>60</height>
+      <width>60</width>
+      <value>Male</value>
+   </item>
+   
+   <item>
+      <id>5</id>
+      <name>FemaleRadioButton</name>
+      <xcordinate>150</xcordinate>
+      <ycordinate>180</ycordinate>
+      <height>60</height>
+      <width>60</width>
+      <value>Female</value>
+   </item>
+</class>
